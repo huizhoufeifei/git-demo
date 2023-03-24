@@ -16,3 +16,4 @@ hello,feihu,hello,nanjing!master test!
 hello,feihu,hello,nanjing!hot-fix test!
 12345
 测试ssh拉取代码
+测试ssh上传代码
